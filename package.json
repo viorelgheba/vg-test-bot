@@ -16,6 +16,10 @@
     "url": "https://github.com/viorelgheba/vg-test-bot/issues"
   },
   "homepage": "https://github.com/viorelgheba/vg-test-bot#readme",
+  "engines": {
+    "node": "5.0.0",
+    "npm": "3.3.6"
+  },
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",

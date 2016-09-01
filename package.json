@@ -1,0 +1,24 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "VG Test Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viorelgheba/vg-test-bot.git"
+  },
+  "author": "Viorel Gheba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viorelgheba/vg-test-bot/issues"
+  },
+  "homepage": "https://github.com/viorelgheba/vg-test-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
